@@ -1,0 +1,5 @@
+SЕLЕСТ СОunТ (САSЕ wНЕN RооmStаtus= "занят" ТНЕN 1 ЕND)*108. /соUNТ(*) 
+
+AS 'percent' 
+
+FROM Rooms
